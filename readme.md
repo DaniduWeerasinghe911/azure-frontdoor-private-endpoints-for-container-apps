@@ -1,6 +1,3 @@
-#sample
-
-
 Howdy Folks,
 
 This time I'm here to talk about container apps and my favourite WAF Azure Front door :). As part of the build updates, among all the AI features Microsoft released this update
